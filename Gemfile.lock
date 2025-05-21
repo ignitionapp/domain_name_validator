@@ -17,8 +17,12 @@ GEM
     rspec-mocks (2.13.1)
 
 PLATFORMS
+  arm64-darwin-23
   x86-mingw32
 
 DEPENDENCIES
   domain_name_validator!
   rspec
+
+BUNDLED WITH
+   2.5.14
